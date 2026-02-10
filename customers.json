@@ -1,1 +1,24 @@
-
+{
+  "CUST1001": {
+    "customerCode": "CUST1001",
+    "name": "Acme Manufacturing",
+    "industry": "Automotive",
+    "size": "500-1000 employees",
+    "experiencePackage": "Enterprise Excellence",
+    "contact": {
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@acme.com"
+    }
+  },
+  "CUST2002": {
+    "customerCode": "CUST2002",
+    "name": "BrightStart Consulting",
+    "industry": "Professional Services",
+    "size": "50-200 employees",
+    "experiencePackage": "Lean Starter Kit",
+    "contact": {
+      "name": "David Lee",
+      "email": "david.lee@brightstart.com"
+    }
+  }
+}
